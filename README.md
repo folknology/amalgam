@@ -8,8 +8,6 @@ Or at the join us at the [myStorm community forum](https://forum.mystorm.uk)
 
 We will be using an Alloy fusion framework on top of [nMigen](https://github.com/m-labs/nmigen) and [Circuit Python](https://github.com/adafruit/circuitpython)
 
-![Alloy](https://github.com/folknology/alloy/blob/master/alloy.png)
-
-![Alloy](https://github.com/folknology/alloy/blob/master/alloy_schematic.png)
+![Amalgam](https://github.com/folknology/amalgam/blob/master/amalgam.png)
 
 
